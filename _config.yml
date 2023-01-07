@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   DeFi research and ideas from first principles
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://carvas.xyz/'
 
 github:
   username: 0xcarvas             # change to your github username
