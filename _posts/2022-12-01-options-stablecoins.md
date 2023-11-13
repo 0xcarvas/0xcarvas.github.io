@@ -1,5 +1,5 @@
 ---
-title: An Options Protocol for Stablecoins
+title: Do Big TradFi Product Types have to be Big in Crypto too?
 date: 2022-12-01 12:00:00 +0000
 categories: [DeFi]
 tags: [defi]
