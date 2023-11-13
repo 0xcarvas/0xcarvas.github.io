@@ -1,5 +1,3 @@
-
-
 ---
 title: Do Big TradFi Product Types have to be Big in Crypto too?
 date: 2023-11-13 12:00:00 +0000
